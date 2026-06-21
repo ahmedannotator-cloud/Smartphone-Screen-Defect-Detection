@@ -1,4 +1,3 @@
-إليك مسودة احترافية كاملة ومحدثة لملف README.md الخاص بك. يمكنك نسخها ولصقها مباشرة في ملف المشروع على GitHub:
 
 Smartphone Screen Defect Detection
 🚀 Project Goal
