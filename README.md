@@ -29,10 +29,10 @@ Developing a high-precision computer vision model to detect surface defects (scr
 
 ---
 
-### 💡 Technical Insights & Methodology
-* **AI-Assisted Workflow:** Integrated AI-powered annotation tools to minimize human error and ensure consistency in edge-case detection.
-* **Edge Case Resolution:** Developed a strict labeling policy for "white halo" reflections, ensuring the model learns to identify the full footprint of a defect rather than just the core damage.
-* **Optimization:** Achieved dataset consistency by maintaining strict polygon-to-boundary adherence, ensuring the model accurately distinguishes between different defect classes based on their physical characteristics.
+### 🎯 Annotation Philosophy & Quality Standards
+- **Precision:** Applied high-density polygon annotation to capture irregular defect shapes, ensuring 1:1 boundary accuracy.
+- **Contextual Awareness:** Trained to identify and isolate "white halo" reflections, distinguishing between superficial light artifacts and actual surface structural damage.
+- **Consistency:** Maintained a strict protocol for differentiating between `Pit` (area-based) and `Scratch` (linear-based) classes across the entire dataset to improve model training convergence.
 
 ---
 
